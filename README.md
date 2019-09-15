@@ -1,5 +1,6 @@
 # Buddy-System-Memory-Management
-A simulation of the buddy system algorithm for memory management.
+[![GitHub license](https://img.shields.io/github/license/MichaelKMalak/Buddy-System-Memory-Management.svg)](https://github.com/MichaelKMalak/Buddy-System-Memory-Management/blob/master/LICENSE)
+<br>A simulation of the buddy system algorithm for memory management.
 
 ## Authors
 Dina Adib Fouad  
